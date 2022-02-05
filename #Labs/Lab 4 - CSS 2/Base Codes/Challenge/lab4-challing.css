@@ -1,0 +1,24 @@
+.container {
+    display: grid;
+    grid-template-rows: 20fr 30fr 30fr 20fr;
+}
+
+.title {
+
+    display: grid;
+    place-items: center;
+    color: black;
+}
+
+nav ul li {
+    text-decoration: none;
+list-style: none;
+
+}
+.header{
+}
+
+.header{
+
+}
+
